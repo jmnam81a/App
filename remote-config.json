@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "forceUpdate": true,
-  "minVersion": "1.0.6",
+  "minVersion": "1.0.3",
   "latestVersion": "1.1.0",
   "message": "앱 안정성 개선을 위해 최신 버전으로 업데이트 해 주세요.",
   "iosStoreUrl": "https://apps.apple.com/app/id12345xxxxx",
