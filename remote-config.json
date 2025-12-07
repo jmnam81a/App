@@ -2,7 +2,7 @@
   "enabled": true,
   "forceUpdate": true,
   "minVersion": "1.0.5",
-  "latestVersion": "1.0.7",
+  "latestVersion": "1.0.9",
   "message": "앱 안정성 개선을 위해 최신 버전으로 업데이트 해 주세요.",
   "iosStoreUrl": "https://apps.apple.com/us/app/greendgree/id6755832577",
   "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mustdo",
