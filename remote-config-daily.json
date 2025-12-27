@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "forceUpdate": true,
+  "minVersion": "1.0.0",
+  "latestVersion": "1.0.0",
+  "message": "Please update App for GOOD performance!",
+  "iosStoreUrl": "https://apps.apple.com/app/must-todo/id6755830879",
+  "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.dailyjournal",
+  "mode": "dev"
+}
